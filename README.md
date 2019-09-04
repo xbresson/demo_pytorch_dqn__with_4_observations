@@ -6,7 +6,7 @@
 
 ## Why?<br>
 Original code used screen image as state. <br>
-But using solely 4 observations of carte pole's state makes the code 10x faster on CPU. <br>
+But using solely 4 observations of carte pole's state makes the code 10x faster. <br>
 This allows to develop quick prototypes for new RL architectures.<br>
 
 
