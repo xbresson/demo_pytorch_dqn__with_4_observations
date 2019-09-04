@@ -14,5 +14,5 @@ This allows to develop quick prototypes for new RL architectures.<br>
 
 
 ## Run in Google Colab <br>
-https://bit.ly/2lxLyUx
+https://bit.ly/2lXSDOm
 
